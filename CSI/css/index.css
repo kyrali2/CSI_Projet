@@ -1,0 +1,14 @@
+h1{
+    position: absolute;
+    font-size: 32px;
+    margin-bottom: 30px;
+    top: 10%;
+    left: 25%;
+}
+button{
+    position: absolute;
+    top : 30%;
+    left : 40%;
+    width: 200px;  
+    height: 60px;  
+}
